@@ -12,7 +12,8 @@ public class QuickSort {
 				   
 	   }
 	  // quickSort(arr,0,arr.length-1);
-	   quickmawa(arr,0,arr.length);
+	   quickmawa(arr,0,arr.length-1
+		    );
 	  System.out.println(Arrays.toString(arr));
 	  
 	   
